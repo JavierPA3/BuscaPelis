@@ -3,7 +3,7 @@
 # Menú:
 
 **credentials.py**
-    [credenciales.py](https://github.com/JavierPA3/BuscaPelis/blob/main/movie_api.py)
+    [credenciales.py](https://github.com/JavierPA3/BuscaPelis/blob/main/credentials.py)
 
 **menu.py**
     [menu.py](https://github.com/JavierPA3/BuscaPelis/blob/main/menu.py)
@@ -14,7 +14,7 @@
 
 
 **movie_api_test.py**
-        [movie_api_test.py](https://github.com/JavierPA3/BuscaPelis/blob/main/credentials.py)
+        [movie_api_test.py](https://github.com/JavierPA3/BuscaPelis/blob/main/movie_api_test.py)
 
 
 **Programa_Buscapelis.pdf**
