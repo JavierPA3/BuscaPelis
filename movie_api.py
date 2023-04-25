@@ -190,16 +190,6 @@ def print_five_trending_films():
             print('Cuento de votos:', data["results"][x]["vote_count"])
             print("")
 
-
-def return_genre_id(genre, genre_data, id_genre, user_wants_specific_genre):
-    for x in range(len(genre_data["genres"])):
-        if genre_data["genres"][x]["name"] == genre:
-            id_genre = genre_data["genres"][x]["id"]
-            # Guardamos el ID y el switch pasará a tener el valor True.
-            user_wants_specific_genre = True
-    return id_genre, user_wants_specific_genre
-
-
 def return_day_or_week():
     while True:
         day_or_week = input("¿Quiere el trending de la semana o del día? Semana/Día ").upper()
