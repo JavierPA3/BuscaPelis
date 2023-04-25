@@ -14,7 +14,7 @@
 
 **movie_api.py**
 
-    [movie_api.py](https://github.com/JavierPA3/BuscaPelis/blob/main/credentials.py)
+    [movie_api.py](https://github.com/JavierPA3/BuscaPelis/blob/main/movie_api.py)
 
 **movie_api_test.py**
 
